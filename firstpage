@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Getting to Travel</title>
+        
+        <style>
+#indent {text-indent: 50px;}
+#heading-font @font-face {
+  font-family: myFirstFont;
+  src: url(sansation_bold.woff);
+  font-weight: bold;
+}
+
+</style>
+</head>
+
+<body>
+<h1> Your Portal to the World</>
+<p>Places I’ve been, places I’ve seen. Come with me and view the world. Join me and show me your world! <br>
+<h2 id=“heading-font”>We’ve got places to be, faces to see!</h2>
+<h3>I love to travel, so write? </h3>
+<p>Passion, yes, the fruit. That seedy and sour delightful fruit fools your brain into believing it is delicious because you can’t resist its smell. Like vanilla, its naked taste is sour. But, oh, if you know how to prepare a concoction with it, such a delightful and unforgettable taste. <br>
+
+Well, passion fruit is my first encounter with travel writing, or in my case, reading. I read an article in an airline magazine about Caribbean destinations (mind you, I was departing my hometown in the Caribbean on some trip) and for some unbeknownst reason it has stayed in my mind since my teenage years, quite a while ago. <br>
+
+And now I have decided to turn my love for places and people into a craft. So, passion fruit it is. If you look around the different pages on this site you will find different topics and places. These are updated regularly, adding more stories, tidbits, anecdotes, photos and insights on travel, places, food (maybe recipes?) and well, food for thought could just be in the making as well. 
+<br>
+
+If you are also and avid, or even a sporadic, traveler, please consider sharing your experiences. You can be part of this experiment I call travel blog and share with us, pictures you have taken are always welcome. <br>
+
+For now, this travel journey will be virtual, since pretty much most of us are stuck at home for a while. But, virtual works, for now. <br>
+
+So, I invite you to scroll up and down, and click on all the links on this page. I hope you can find something you like. You can reach out by email if you like as well, gettingtotravel@gmail.com. </P>
+<p id=“indent”>Ann Hoff-Fanaian</p>
+
